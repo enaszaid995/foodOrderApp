@@ -32,3 +32,14 @@
       transform: translateY(0);
     }
   }
+  .MealsLoading{
+    text-align: center;
+    padding: 5rem 0rem;
+    color: white;
+  }
+
+  .MealsError {
+    text-align: center;
+    padding: 5rem 0rem;
+    color: white;
+  }
